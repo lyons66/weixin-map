@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<map scale="13" latitude="31.230416" longitude="121.473701" markers="{{markers_}}" />
+<button type="primary" bindtap="setSta" size="mini" id="start">起点</button>
+<button type="primary" bindtap="setTer" size="mini" id="terminal">终点</button>
+<button type="primary" bindtap="test" size="mini" id="test">测试</button>
+<button type="primary" size="mini" id="cal">计算幸福度</button>

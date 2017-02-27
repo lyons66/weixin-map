@@ -1,0 +1,31 @@
+/**index.wxss**/
+map {
+  position: absolute;
+  left: 10%;
+  height: 560px;
+  
+}
+
+#start {
+  position: absolute;
+  bottom: 15px;
+  left: 10%;
+}
+
+#terminal {
+  position: absolute;
+  bottom: 15px;
+  left: 35%;
+}
+
+#cal {
+  position: absolute;
+  bottom: 15px;
+  right: 10%;
+}
+
+#test {
+  position: absolute;
+  bottom: 15px;
+  right: 35%;
+}
